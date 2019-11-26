@@ -1,4 +1,14 @@
-body {
-background: #FFD100;
-color: #0E209E;
+*{
+margin: 0;
+padding: 0;
 }
+
+
+header{
+	width: 100%;
+	background: white;
+	height: 193px;
+	
+}
+
+
